@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>https://adt105138.github.io/tags/</loc>
+    <loc>https://adt105138.github.io/tags/design/</loc>
     <lastmod>2020-09-09T15:20:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adt105138.github.io/tags/test/</loc>
+    <loc>https://adt105138.github.io/tags/</loc>
     <lastmod>2020-09-09T15:20:47+08:00</lastmod>
   </url>
   
@@ -38,12 +38,22 @@
   </url>
   
   <url>
+    <loc>https://adt105138.github.io/blog/sticker/</loc>
+    <lastmod>2020-09-09T15:20:47+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://adt105138.github.io/blog/filmweb/</loc>
     <lastmod>2020-09-09T15:20:47+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://adt105138.github.io/tags/hello/</loc>
+    <lastmod>2020-08-09T15:20:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adt105138.github.io/tags/test/</loc>
     <lastmod>2020-08-09T15:20:47+08:00</lastmod>
   </url>
   
