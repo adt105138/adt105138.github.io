@@ -32,5 +32,20 @@
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://adt105138.github.io/blog/filmweb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/filmweb/</guid>
+      <description>網頁程式前端設計-《與神同行》電影宣傳網站 *本前端網頁設計為大二網頁設計之作業，未發布至線上
+本作業使用Adobe Dreamweaver軟體製作
+前端架構使用html程式，網頁設計使用CSS程式語法
+網頁中的圖片輪播與滑動使用JavaScript Flexslider方式製作
+使用RWD技術，使網頁在手機或不同裝置觀看，版面會跟著有所調整
+▲「劇照與評論」頁面-照片自動輪播、文章佈告欄(附有超連結)
+▲「電影介紹」頁面</description>
+    </item>
+    
   </channel>
 </rss>
