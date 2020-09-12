@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test on 個人簡介</title>
-    <link>https://adt105138.github.io/tags/test/</link>
-    <description>Recent content in Test on 個人簡介</description>
+    <title>作品介紹 on 個人簡介</title>
+    <link>https://adt105138.github.io/categories/%E4%BD%9C%E5%93%81%E4%BB%8B%E7%B4%B9/</link>
+    <description>Recent content in 作品介紹 on 個人簡介</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 09 Sep 2020 15:20:47 +0800</lastBuildDate>
     
-	<atom:link href="https://adt105138.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://adt105138.github.io/categories/%E4%BD%9C%E5%93%81%E4%BB%8B%E7%B4%B9/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -24,18 +24,6 @@
 使用RWD技術，使網頁在手機或不同裝置觀看，版面會跟著有所調整
 ▲「劇照與評論」頁面-照片自動輪播、文章佈告欄(附有超連結)
 ▲「電影介紹」頁面</description>
-    </item>
-    
-    <item>
-      <title>第一篇文章測試</title>
-      <link>https://adt105138.github.io/blog/test/</link>
-      <pubDate>Sun, 09 Aug 2020 15:20:47 +0800</pubDate>
-      
-      <guid>https://adt105138.github.io/blog/test/</guid>
-      <description>Hello World
-歡迎^_^
-測試一級 測試二級 我是Lisa 我喜歡睡覺
- 早安 午安 晚安  這是內縮     這是無序 下坡  這是內縮     引言</description>
     </item>
     
   </channel>
