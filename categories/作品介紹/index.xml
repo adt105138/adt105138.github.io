@@ -6,15 +6,135 @@
     <description>Recent content in 作品介紹 on 個人簡介</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 09 Sep 2020 15:20:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2020 09:30:40 +0800</lastBuildDate>
     
 	<atom:link href="https://adt105138.github.io/categories/%E4%BD%9C%E5%93%81%E4%BB%8B%E7%B4%B9/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>演唱會專題規劃</title>
+      <link>https://adt105138.github.io/blog/jsheon/</link>
+      <pubDate>Tue, 23 Jun 2020 09:30:40 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/jsheon/</guid>
+      <description>演唱會專題規劃 *本作品為《設計方法》課程專題
+從本專題中學習如何規劃演唱會的前置設計宣傳作業
+雖然並不是真的去為歌手或活動籌辦宣傳，但藉由老師一步一步帶領教學，獲得不少經驗技術
+我們這組選擇的歌手是J.Sheon
+初步先了解歌手（背景故事、人物特色、作品取向&amp;hellip;）
+再進一步思考規劃演唱會的世界觀方向
+▲本組所規劃的演唱會資訊整理圖
+▲本組所規劃的演唱會流程魚骨圖
+我們選擇他的主打歌曲為《輸情歌》</description>
+    </item>
+    
+    <item>
+      <title>Instagram 濾鏡製作 - SMAR 第一屆品牌濾鏡大賽</title>
+      <link>https://adt105138.github.io/blog/ig/</link>
+      <pubDate>Sat, 06 Jun 2020 22:08:23 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/ig/</guid>
+      <description>Instagram 濾鏡製作 - SMAR 第一屆品牌濾鏡大賽 *本作品為自己製作練習參賽之作品
+濾鏡為近期流行的風潮，利用AR擴增實境技術，可運用在人臉或空間中，讓螢幕上的虛擬世界能夠與現實世界場景進行結合與互動的技術。而相機濾鏡已有許多APP，Instagram（簡稱ig）和Facebook也加入且開放大家可製作自己設計的濾鏡上傳公開。
+這次參加「SMAR 第一屆品牌濾鏡大賽」
+比賽內容為選擇比賽提供的廠商和資訊，進而幫廠商製作ig品牌濾鏡，達到宣傳效果。</description>
+    </item>
+    
+    <item>
+      <title>高典商行數位行銷 企劃專題</title>
+      <link>https://adt105138.github.io/blog/cake/</link>
+      <pubDate>Tue, 07 Jan 2020 09:30:55 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/cake/</guid>
+      <description>高典商行數位行銷企劃專題 ＊本作品為《電子商務互動行銷》課程專題
+本專題是與廠商店家實際溝通，為廠商店家作數位行銷的方式宣傳。廠商店家皆與學生無任何商業行為，僅借商品讓我們學生從中學習。
+我們組別選擇台中高典商行作為數位行銷專案的店家，一家以「健康」、「零負擔」來製作糕點的烘焙商行，老闆娘人很好很漂亮！！
+首先我們先去了解高典商行的背景，主打內容與商品，主要客群，特色為何以及需加強數位行銷的部分。
+且針對我們所分配到的產品「紅茶雪花餅」進行了解：以南投的魚池鄉優等紅茶葉親自研磨，不添加其餘人工加工材料。主要的客群多為35歲至50歲年齡層，且以女性居多，多以上班族群或送禮需求者為主。
+我們選擇以「年輕人」為行銷目標，以「溫暖」為主打氛圍，擴大客群，逐步對店家設計數位行銷。
+行銷方向：
+Q：過年過節時，不知道該送什麼禮物給親朋好友？
+A：高典的紅茶雪花餅，美味紮實的口感，大小合宜的小糕點，最為禮品最適合不過！</description>
+    </item>
+    
+    <item>
+      <title>人臉辨識 - 人工智慧應用</title>
+      <link>https://adt105138.github.io/blog/ai/</link>
+      <pubDate>Mon, 06 Jan 2020 10:08:56 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/ai/</guid>
+      <description>人臉辨識 - 人工智慧應用 *本作品為《人工智慧應用》課程的期末報告，為自行運用上課所學之技術或上網學習之技術製作，而本作品為自行上網學習之技術
+本作品為製作人工智慧相關之應用實作
+我以「人臉辨識」技術為應用核心，製作目前流行的「人臉圖貼」
+運用&amp;quot;shape_predictor_68_face_landmarks.dat &amp;ldquo;，為已經過訓練的人臉識別模型，已訓練可精準偵測人臉中的68點位置，去製作而成。
+使用的程式語言：Python
+▲shape_predictor_68_face_landmarks.dat中人臉辨識之68點位置</description>
+    </item>
+    
+    <item>
+      <title>大數據人文競賽-Line機器人</title>
+      <link>https://adt105138.github.io/blog/linebot/</link>
+      <pubDate>Sun, 22 Dec 2019 23:30:55 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/linebot/</guid>
+      <description>大數據人文競賽-Line機器人 ＊本為參加《全國大學校院數位人文大數據學生競賽》之作品
+本比賽我們以人文＋大數據去發想
+以程式語言Python撰寫、Line聊天機器人的方式呈現作品
+人文以孔子文學為主題，進而去探討在孔子名著《論語》中有多少詞彙出現頻率最多，弟子人物出現的頻率，以及弟子褒貶的統計分析。將詞彙製作成文字雲呈現，Line聊天機器人的方式問答，作品命名為「孔教授的課後輔導」。
+我負責程式撰寫與整體Linebot建置
+美術設計部分由組員張巧琳與洪聖涵設計
+主要功能介紹
+ 認識我們  我們所設計之角色以孔子與孔門十弟子為主，此功能為人物介紹，運用數據統計出各人物在論語中出現的頻率，搭被我們所設計的人物角色圖將之展出。</description>
+    </item>
+    
+    <item>
+      <title>密室逃脫解謎遊戲 - Unity3D遊戲製作</title>
+      <link>https://adt105138.github.io/blog/3dunity/</link>
+      <pubDate>Wed, 19 Jun 2019 08:14:18 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/3dunity/</guid>
+      <description>密室逃脫解謎遊戲 - Unity3D遊戲製作 ＊本作品為《行動裝置APP》課程專題
+《行動裝置APP》課程專題為利用Unity軟體製作3D的APP遊戲
+我們組兩人，我負責程式部分，另一位組員巧琳負責美術設計部分
+選擇的遊戲類型為解謎遊戲。現今有許多人喜歡到密室逃脫工作室遊玩，而我們倆也很喜歡玩，從遊戲中可動腦思考，破解謎底，想藉此方向製作此類型的3D遊戲。
+ 首先先從遊戲劇情發想  故事設定：</description>
+    </item>
+    
+    <item>
+      <title>Unity - 2D射擊小遊戲</title>
+      <link>https://adt105138.github.io/blog/2dunity/</link>
+      <pubDate>Sat, 01 Jun 2019 20:03:03 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/2dunity/</guid>
+      <description>Unity - 2D射擊小遊戲 *本作品為《多媒體概論課程》期末個人作品
+一款2D射擊小遊戲，還記得老師當初開始教如何製作的時候，剛好是萬聖節的時期，我就決定設計方向是萬聖節了😂😂😂
+使用的軟體：Unity
+程式語言：C＃
+電腦「左右鍵」可控制箭靶左右移動，「空白鍵」為發射箭矢
+怪物分為三類型：殭屍、狼人、吸血鬼
+每打中一隻怪物，分數＋10分</description>
+    </item>
+    
+    <item>
+      <title>教育性桌上遊戲設計</title>
+      <link>https://adt105138.github.io/blog/broadgame/</link>
+      <pubDate>Sat, 01 Jun 2019 20:03:03 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/broadgame/</guid>
+      <description>教育性桌上遊戲設計 *本作品為《遊戲設計概論課程》專題小組作品
+近年來，桌遊越來越夯，也開始有越來越多的設計者將「教育內容」融入至桌遊中，讓許多老師開始把桌遊帶進教室，作為啟發學習動機，或是培養能力的重要工具。
+(引用：https://flipedu.parenting.com.tw/article/4392)
+我們設計兩款教育型桌遊企劃
+第一款：《請神》 01.遊戲背景：
+四名走投無路的村民，將希望寄託在神明身上。他們一起準備請神儀式，虔誠的心才能順利獲得神明的保佑。但其中一名村民心術不正，想藉由厲神快速完成自己的願望。究竟他們能不能順利完成儀式，請神成功呢?
+02.遊戲人數：4人
+03.遊戲配件：廟宇板x3、錢幣x75、誠心值物件（1x5，5x20，10x10，20x10）、四季盤x1</description>
+    </item>
+    
+    <item>
       <title>動態貼圖製作</title>
       <link>https://adt105138.github.io/blog/sticker/</link>
-      <pubDate>Wed, 09 Sep 2020 15:20:47 +0800</pubDate>
+      <pubDate>Mon, 08 Apr 2019 10:10:15 +0800</pubDate>
       
       <guid>https://adt105138.github.io/blog/sticker/</guid>
       <description>動態貼圖製作 *本作業為《多媒體概論》課程期中報告，未上架於Line貼圖
@@ -26,9 +146,50 @@
     </item>
     
     <item>
+      <title>資料庫應用 - 網站建置</title>
+      <link>https://adt105138.github.io/blog/database/</link>
+      <pubDate>Thu, 13 Dec 2018 19:38:03 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/database/</guid>
+      <description>資料庫應用 - 網站建置 *本作業為《資料庫管理》課程的期末展示實作作業，未實際發布至網上
+資料庫管理課程的期中是發想資料庫創意應用，期末為實際做出成品展示
+我與組員所報告的主題為「租借網站」
+我負責建置網站與連接資料庫的部分
+另一位組員負責企劃發想與發表介紹</description>
+    </item>
+    
+    <item>
+      <title>繪本與電子書製作-家扶基金會</title>
+      <link>https://adt105138.github.io/blog/book/</link>
+      <pubDate>Wed, 20 Jun 2018 18:30:45 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/book/</guid>
+      <description>繪本與電子書製作-家扶基金會 *本作品為《腳本設計》課程的作業
+腳本設計課程與台中家扶基金會合作，製作家暴相關之繪本。
+家庭暴力為不可輕忽的社會問題，不論是法律上的保護加強，社會單位的介入處理，在教育方面也需加強宣導，讓孩童了解什麼是家庭暴力以及學會「求救」。
+繪本多為0-6歲的孩童閱讀，是很適合成為教育宣導的教材之一。
+繪本的優點有很多，從圖文當中，有助於讓孩子懂得許多道理，促進兒童品格的健康發展。
+ 相關繪本參考，從中學習  已確立家庭暴力為本次繪本主題，我們先蒐集/欣賞已出版的家暴類型繪本作為參考。</description>
+    </item>
+    
+    <item>
+      <title>兒童教具設計-雷雕拼圖</title>
+      <link>https://adt105138.github.io/blog/puzzle/</link>
+      <pubDate>Wed, 13 Jun 2018 16:24:17 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/puzzle/</guid>
+      <description>兒童教具設計-雷雕拼圖 *本作品為《創意產業設計》課程期末報告
+ 本作品之創作5W1H：  -What：
+(1)恐龍造型拼圖:以恐龍為完整外觀的設計，幾何造形分塊，數字依序組裝。
+(2)小男孩器官地圖:為視覺障礙者設計的觸覺拼圖（集合拼圖、組合、對位、知識教學等特色的設計應用）以小男孩為外觀(框線)，器官部分為拼圖塊(面塊)
+(3)十二生肖_TAIWAN地圖:組合有次序性與相對性，創意動物大集合。以台灣地圖為外完整外觀，裡面以「十二生肖大集合」為主題。
+-WHO：</description>
+    </item>
+    
+    <item>
       <title>網頁程式前端設計-《與神同行》電影宣傳網站</title>
       <link>https://adt105138.github.io/blog/filmweb/</link>
-      <pubDate>Wed, 09 Sep 2020 15:20:47 +0800</pubDate>
+      <pubDate>Thu, 18 Jan 2018 09:40:27 +0800</pubDate>
       
       <guid>https://adt105138.github.io/blog/filmweb/</guid>
       <description>網頁程式前端設計-《與神同行》電影宣傳網站 *本前端網頁設計為大二網頁設計之作業，未發布至線上
@@ -38,6 +199,15 @@
 使用RWD技術，使網頁在手機或不同裝置觀看，版面會跟著有所調整
 ▲「劇照與評論」頁面-照片自動輪播、文章佈告欄(附有超連結)
 ▲「電影介紹」頁面</description>
+    </item>
+    
+    <item>
+      <title>聯結城與鄉 企劃</title>
+      <link>https://adt105138.github.io/blog/city/</link>
+      <pubDate>Wed, 08 Nov 2017 15:00:00 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/city/</guid>
+      <description>聯結城與鄉 企劃 參加2017國立中山大學 幸福城市 X 智慧生活 X 社會企業提案競賽 《提案動機》： 現今台灣偏鄉地區的教育資源薄弱，而偏鄉地區的孩子也會相對於城市地區孩子的競爭力較為低落。善心人士或公益團體常會以金錢上的援助來作為改善的方法，但是，卻沒有人意識到真正的問題點，只是一味地以為只要捐錢，去給予硬體設備等等就是解決問題。</description>
     </item>
     
   </channel>

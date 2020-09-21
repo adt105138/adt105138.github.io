@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AR on 個人簡介</title>
+    <link>https://adt105138.github.io/tags/ar/</link>
+    <description>Recent content in AR on 個人簡介</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 06 Jun 2020 22:08:23 +0800</lastBuildDate>
+    
+	<atom:link href="https://adt105138.github.io/tags/ar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Instagram 濾鏡製作 - SMAR 第一屆品牌濾鏡大賽</title>
+      <link>https://adt105138.github.io/blog/ig/</link>
+      <pubDate>Sat, 06 Jun 2020 22:08:23 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/ig/</guid>
+      <description>Instagram 濾鏡製作 - SMAR 第一屆品牌濾鏡大賽 *本作品為自己製作練習參賽之作品
+濾鏡為近期流行的風潮，利用AR擴增實境技術，可運用在人臉或空間中，讓螢幕上的虛擬世界能夠與現實世界場景進行結合與互動的技術。而相機濾鏡已有許多APP，Instagram（簡稱ig）和Facebook也加入且開放大家可製作自己設計的濾鏡上傳公開。
+這次參加「SMAR 第一屆品牌濾鏡大賽」
+比賽內容為選擇比賽提供的廠商和資訊，進而幫廠商製作ig品牌濾鏡，達到宣傳效果。</description>
+    </item>
+    
+  </channel>
+</rss>
