@@ -6,10 +6,26 @@
     <description>Recent content in Code on 個人簡介</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 06 Jan 2020 10:08:56 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2020 09:23:41 +0800</lastBuildDate>
     
 	<atom:link href="https://adt105138.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>系上虛擬導覽員互動裝置</title>
+      <link>https://adt105138.github.io/blog/guid/</link>
+      <pubDate>Tue, 14 Jan 2020 09:23:41 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/guid/</guid>
+      <description>系上虛擬導覽員互動裝置 ＊本為《互動媒體專題》課程的專題作品
+本專題課程之作品為系上互動裝置，利用Processing、Arduino、Live2D、Adobe Effect軟體製作。
+因是要提供給系上的裝置，專題規模稍大，本組共有8位成員，內部再分為程式組與設計組（各4位），本人為程式組組長。
+我們以VTuber為創作靈感，希望建制一位虛擬導覽員，使用者可藉由此機器認識本科系。
+創作理念：
+結合數位內容科技學系（簡稱數位系）的數位設計、資訊系統、互動學習整合等三大特色，誕生出數位系虛擬偶像——透！
+藉由語音辨識偵測使用者說出的詞彙並轉換為文字，與我們的透哥互動，讓他來為各位導覽，協助校外人士了解數位系相關資訊，配合校務行政人員發布消息，提供本系學生一個活動及成果展出的平台！
+創作過程：</description>
+    </item>
     
     <item>
       <title>人臉辨識 - 人工智慧應用</title>
