@@ -51,7 +51,7 @@
 我以「人臉辨識」技術為應用核心，製作目前流行的「人臉圖貼」
 運用&amp;quot;shape_predictor_68_face_landmarks.dat &amp;ldquo;，為已經過訓練的人臉識別模型，已訓練可精準偵測人臉中的68點位置，去製作而成。
 使用的程式語言：Python
-▲shape_predictor_68_face_landmarks.dat中人臉辨識之68點位置</description>
+  ▲shape_predictor_68_face_landmarks.</description>
     </item>
     
     <item>
@@ -122,7 +122,8 @@
 資料庫管理課程的期中是發想資料庫創意應用，期末為實際做出成品展示
 我與組員所報告的主題為「租借網站」
 我負責建置網站與連接資料庫的部分
-另一位組員負責企劃發想與發表介紹</description>
+另一位組員負責企劃發想與發表介紹
+  </description>
     </item>
     
     <item>
