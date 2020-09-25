@@ -6,28 +6,10 @@
     <description>Recent content in Tags on 個人簡介</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 09 Aug 2020 15:20:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2020 09:30:40 +0800</lastBuildDate>
     
 	<atom:link href="https://adt105138.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hello</title>
-      <link>https://adt105138.github.io/tags/hello/</link>
-      <pubDate>Sun, 09 Aug 2020 15:20:47 +0800</pubDate>
-      
-      <guid>https://adt105138.github.io/tags/hello/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://adt105138.github.io/tags/test/</link>
-      <pubDate>Sun, 09 Aug 2020 15:20:47 +0800</pubDate>
-      
-      <guid>https://adt105138.github.io/tags/test/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Design</title>
@@ -68,45 +50,9 @@
     <item>
       <title>Game</title>
       <link>https://adt105138.github.io/tags/game/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <pubDate>Wed, 19 Jun 2019 08:14:18 +0800</pubDate>
       
       <guid>https://adt105138.github.io/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://adt105138.github.io/tags/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://adt105138.github.io/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New</title>
-      <link>https://adt105138.github.io/tags/new/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://adt105138.github.io/tags/new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photos</title>
-      <link>https://adt105138.github.io/tags/photos/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://adt105138.github.io/tags/photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://adt105138.github.io/tags/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://adt105138.github.io/tags/python/</guid>
       <description></description>
     </item>
     
@@ -116,6 +62,24 @@
       <pubDate>Thu, 18 Jan 2018 09:40:27 +0800</pubDate>
       
       <guid>https://adt105138.github.io/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://adt105138.github.io/tags/hello/</link>
+      <pubDate>Sun, 09 Aug 2015 15:20:47 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/tags/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://adt105138.github.io/tags/test/</link>
+      <pubDate>Sun, 09 Aug 2015 15:20:47 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/tags/test/</guid>
       <description></description>
     </item>
     

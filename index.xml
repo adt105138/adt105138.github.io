@@ -6,22 +6,10 @@
     <description>Recent content on 個人簡介</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 09 Aug 2020 15:20:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2020 09:30:40 +0800</lastBuildDate>
     
 	<atom:link href="https://adt105138.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>第一篇文章測試</title>
-      <link>https://adt105138.github.io/blog/test/</link>
-      <pubDate>Sun, 09 Aug 2020 15:20:47 +0800</pubDate>
-      
-      <guid>https://adt105138.github.io/blog/test/</guid>
-      <description>Hello World
-歡迎^_^
-測試一級 測試二級 我是Lisa 我喜歡睡覺
- 早安 午安 晚安  這是內縮     這是無序 下坡  這是內縮     引言</description>
-    </item>
     
     <item>
       <title>演唱會專題規劃</title>
@@ -129,15 +117,6 @@ Step1:問題分析
 當地有豐富的植物與動物生態，特色很多但鮮為人知
 Step2:以設計來解決問題
 我們以年輕人為目標客群，對象偏重於觀光客。藉由上述兩項問題思考如何解決，進而推動地區發展。</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://adt105138.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://adt105138.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6  Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
     <item>
@@ -262,6 +241,18 @@ Step2:以設計來解決問題
       
       <guid>https://adt105138.github.io/blog/city/</guid>
       <description>聯結城與鄉 企劃 參加2017國立中山大學 幸福城市 X 智慧生活 X 社會企業提案競賽 《提案動機》： 現今台灣偏鄉地區的教育資源薄弱，而偏鄉地區的孩子也會相對於城市地區孩子的競爭力較為低落。善心人士或公益團體常會以金錢上的援助來作為改善的方法，但是，卻沒有人意識到真正的問題點，只是一味地以為只要捐錢，去給予硬體設備等等就是解決問題。</description>
+    </item>
+    
+    <item>
+      <title>第一篇文章測試</title>
+      <link>https://adt105138.github.io/blog/test/</link>
+      <pubDate>Sun, 09 Aug 2015 15:20:47 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/test/</guid>
+      <description>Hello World
+歡迎^_^
+測試一級 測試二級 我是Lisa 我喜歡睡覺
+ 早安 午安 晚安  這是內縮     這是無序 下坡  這是內縮     引言</description>
     </item>
     
   </channel>
