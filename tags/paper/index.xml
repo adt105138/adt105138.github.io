@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper on 個人簡介</title>
+    <link>https://adt105138.github.io/tags/paper/</link>
+    <description>Recent content in Paper on 個人簡介</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 15 Sep 2020 18:30:45 +0800</lastBuildDate>
+    
+	<atom:link href="https://adt105138.github.io/tags/paper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GCCCE2020全球華人計算機教育應用大會-論文發表</title>
+      <link>https://adt105138.github.io/blog/paper/</link>
+      <pubDate>Tue, 15 Sep 2020 18:30:45 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/paper/</guid>
+      <description>GCCCE2020全球華人計算機教育應用大會-論文發表 很高興能參與GCCCE2020的會議，論文選為長篇論文且入圍《最佳技術設計論文獎》
+很可惜的是因為疫情的關係，無法實際到中國蘭州現場發表
+不過科技發達，我以線上發表的形式參與，第一次用直播的方式覺得很特別
+使用騰訊會議軟體報告
+▲GCCCE2020官網公布入圍《最佳技術設計論文獎》
+▲已列入GCCCE2020論文集
+▲線上發表畫面-1
+▲線上發表畫面-3
+▲線上發表畫面-4</description>
+    </item>
+    
+  </channel>
+</rss>

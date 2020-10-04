@@ -6,10 +6,40 @@
     <description>Recent content in Blogs on 個人簡介</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 23 Jun 2020 09:30:40 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2020 18:30:45 +0800</lastBuildDate>
     
 	<atom:link href="https://adt105138.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GCCCE2020全球華人計算機教育應用大會-論文發表</title>
+      <link>https://adt105138.github.io/blog/paper/</link>
+      <pubDate>Tue, 15 Sep 2020 18:30:45 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/paper/</guid>
+      <description>GCCCE2020全球華人計算機教育應用大會-論文發表 很高興能參與GCCCE2020的會議，論文選為長篇論文且入圍《最佳技術設計論文獎》
+很可惜的是因為疫情的關係，無法實際到中國蘭州現場發表
+不過科技發達，我以線上發表的形式參與，第一次用直播的方式覺得很特別
+使用騰訊會議軟體報告
+▲GCCCE2020官網公布入圍《最佳技術設計論文獎》
+▲已列入GCCCE2020論文集
+▲線上發表畫面-1
+▲線上發表畫面-3
+▲線上發表畫面-4</description>
+    </item>
+    
+    <item>
+      <title>畢業專題 - 能源守護者教育網站</title>
+      <link>https://adt105138.github.io/blog/energy/</link>
+      <pubDate>Tue, 30 Jun 2020 08:30:45 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/energy/</guid>
+      <description>畢業專題 - 能源守護者教育網站 我們組的畢業專題為「國小能源教育網站教材」
+本專題論文《情境式能源教育教材網站建置初探》投稿GCCCE2020全球華人計算機教育應用大會，且入圍《最佳技術設計論文獎》
+網站以html、css、javascript撰寫
+動畫以Adobe Effect製作
+美術設計以Adobe Illustrator繪製</description>
+    </item>
     
     <item>
       <title>演唱會專題規劃</title>
