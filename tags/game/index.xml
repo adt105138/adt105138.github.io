@@ -39,6 +39,19 @@
     </item>
     
     <item>
+      <title>Unity AR 製作(Vuforia)</title>
+      <link>https://adt105138.github.io/blog/ar/</link>
+      <pubDate>Wed, 19 Jun 2019 08:14:18 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/ar/</guid>
+      <description>Unity AR 製作 (Vuforia) 以Android Studio軟體製作遊戲（JAVA程式）
+點擊螢幕讓小鳥飛高
+小鳥吃到藍色球，分數＋10分
+小鳥吃到黑色球，愛心會減少
+  目前為練習版本，尚未建構完整（開始畫面、結束畫面）</description>
+    </item>
+    
+    <item>
       <title>Webduino物聯網作品</title>
       <link>https://adt105138.github.io/blog/webduino/</link>
       <pubDate>Wed, 19 Jun 2019 08:14:18 +0800</pubDate>
