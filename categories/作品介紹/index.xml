@@ -150,53 +150,15 @@ Step2:以設計來解決問題
     </item>
     
     <item>
-      <title>Android Studio APP遊戲</title>
-      <link>https://adt105138.github.io/blog/app/</link>
-      <pubDate>Wed, 19 Jun 2019 08:14:18 +0800</pubDate>
-      
-      <guid>https://adt105138.github.io/blog/app/</guid>
-      <description>Android Studio APP遊戲 以Android Studio軟體製作遊戲（JAVA程式）
-點擊螢幕讓小鳥飛高
-小鳥吃到藍色球，分數＋10分
-小鳥吃到黑色球，愛心會減少
-  目前為練習版本，尚未建構完整（開始畫面、結束畫面）</description>
-    </item>
-    
-    <item>
-      <title>Construct2 - 射擊遊戲＆資源回收教育遊戲</title>
-      <link>https://adt105138.github.io/blog/c2/</link>
-      <pubDate>Wed, 19 Jun 2019 08:14:18 +0800</pubDate>
-      
-      <guid>https://adt105138.github.io/blog/c2/</guid>
-      <description>Construct2 - 射擊遊戲＆資源回收教育遊戲 兩個作品使用Construct2軟體製作
-射擊遊戲 第一關：點擊氣球加分
-第二關：點擊標靶加分，點擊人臉扣分
-第三關：點擊鋁罐加分，可多次點擊（combo）
-遊玩過程點擊到小鳥可加多分
-  資源回收教育遊戲 從本遊戲中學習各種垃圾類型該如何作資源回收</description>
-    </item>
-    
-    <item>
       <title>Unity AR 製作(Vuforia)</title>
       <link>https://adt105138.github.io/blog/ar/</link>
-      <pubDate>Wed, 19 Jun 2019 08:14:18 +0800</pubDate>
+      <pubDate>Sat, 17 Aug 2019 12:23:11 +0800</pubDate>
       
       <guid>https://adt105138.github.io/blog/ar/</guid>
-      <description>Unity AR 製作 (Vuforia) 以Android Studio軟體製作遊戲（JAVA程式）
-點擊螢幕讓小鳥飛高
-小鳥吃到藍色球，分數＋10分
-小鳥吃到黑色球，愛心會減少
-  目前為練習版本，尚未建構完整（開始畫面、結束畫面）</description>
-    </item>
-    
-    <item>
-      <title>Webduino物聯網作品</title>
-      <link>https://adt105138.github.io/blog/webduino/</link>
-      <pubDate>Wed, 19 Jun 2019 08:14:18 +0800</pubDate>
-      
-      <guid>https://adt105138.github.io/blog/webduino/</guid>
-      <description>Webduino物聯網作品 大一的數位整合傳播課程中學習利用Webduino來創作遊戲
-Webduino是初學者學習物聯網的好夥伴，實現真正用 Web 串接 Arduino 的技術，利用圖形化的程式編輯介面，搭配自行研發的開發版，純粹撰寫 HTML 與 Javascript 的網頁語法，就能夠玩轉各式各樣的傳感器，降低踏入物聯網的門檻。</description>
+      <description>Unity AR 製作 (Vuforia) Unity+Vuforia製作擴增實境AR
+（1）實際世界中的杯墊＋虛擬杯子
+  （2）實際世界中的書本＋虛擬的筆、橡皮擦、計算機
+  （3）偵測圖片，出現動態角色</description>
     </item>
     
     <item>
@@ -255,6 +217,19 @@ Webduino是初學者學習物聯網的好夥伴，實現真正用 Web 串接 Ard
 (1)老師來了嗎？
 (2)幫我佔位子
 (3)當機</description>
+    </item>
+    
+    <item>
+      <title>Android Studio APP遊戲</title>
+      <link>https://adt105138.github.io/blog/app/</link>
+      <pubDate>Fri, 05 Apr 2019 09:55:43 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/app/</guid>
+      <description>Android Studio APP遊戲 以Android Studio軟體製作遊戲
+點擊螢幕讓小鳥飛高
+小鳥吃到藍色球，分數＋10分
+小鳥吃到黑色球，愛心會減少
+  目前為練習版本，尚未建構完整（開始畫面、結束畫面），未來有機會發佈App公開下載</description>
     </item>
     
     <item>
@@ -321,6 +296,30 @@ Webduino是初學者學習物聯網的好夥伴，實現真正用 Web 串接 Ard
       
       <guid>https://adt105138.github.io/blog/city/</guid>
       <description>聯結城與鄉 企劃 參加2017國立中山大學 幸福城市 X 智慧生活 X 社會企業提案競賽 《提案動機》： 現今台灣偏鄉地區的教育資源薄弱，而偏鄉地區的孩子也會相對於城市地區孩子的競爭力較為低落。善心人士或公益團體常會以金錢上的援助來作為改善的方法，但是，卻沒有人意識到真正的問題點，只是一味地以為只要捐錢，去給予硬體設備等等就是解決問題。</description>
+    </item>
+    
+    <item>
+      <title>Webduino物聯網作品</title>
+      <link>https://adt105138.github.io/blog/webduino/</link>
+      <pubDate>Mon, 19 Jun 2017 08:14:18 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/webduino/</guid>
+      <description>Webduino物聯網作品 大一的數位整合傳播課程中學習利用Webduino來創作遊戲
+Webduino是初學者學習物聯網的好夥伴，實現真正用 Web 串接 Arduino 的技術，利用圖形化的程式編輯介面，搭配自行研發的開發版，純粹撰寫 HTML 與 Javascript 的網頁語法，就能夠玩轉各式各樣的傳感器，降低踏入物聯網的門檻。</description>
+    </item>
+    
+    <item>
+      <title>Construct2 - 射擊遊戲＆資源回收教育遊戲</title>
+      <link>https://adt105138.github.io/blog/c2/</link>
+      <pubDate>Sun, 04 Dec 2016 08:14:18 +0800</pubDate>
+      
+      <guid>https://adt105138.github.io/blog/c2/</guid>
+      <description>Construct2 - 射擊遊戲＆資源回收教育遊戲 兩個作品使用Construct2軟體製作
+射擊遊戲 第一關：點擊氣球加分
+第二關：點擊標靶加分，點擊人臉扣分
+第三關：點擊鋁罐加分，可多次點擊（combo）
+遊玩過程點擊到小鳥可加多分
+  資源回收教育遊戲 從本遊戲中學習各種垃圾類型該如何作資源回收</description>
     </item>
     
   </channel>
