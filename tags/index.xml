@@ -74,23 +74,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Hello</title>
-      <link>https://adt105138.github.io/tags/hello/</link>
-      <pubDate>Sun, 09 Aug 2015 15:20:47 +0800</pubDate>
-      
-      <guid>https://adt105138.github.io/tags/hello/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://adt105138.github.io/tags/test/</link>
-      <pubDate>Sun, 09 Aug 2015 15:20:47 +0800</pubDate>
-      
-      <guid>https://adt105138.github.io/tags/test/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

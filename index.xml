@@ -334,17 +334,5 @@ Webduino是初學者學習物聯網的好夥伴，實現真正用 Web 串接 Ard
   資源回收教育遊戲 從本遊戲中學習各種垃圾類型該如何作資源回收</description>
     </item>
     
-    <item>
-      <title>第一篇文章測試</title>
-      <link>https://adt105138.github.io/blog/test/</link>
-      <pubDate>Sun, 09 Aug 2015 15:20:47 +0800</pubDate>
-      
-      <guid>https://adt105138.github.io/blog/test/</guid>
-      <description>Hello World
-歡迎^_^
-測試一級 測試二級 我是Lisa 我喜歡睡覺
- 早安 午安 晚安  這是內縮     這是無序 下坡  這是內縮     引言</description>
-    </item>
-    
   </channel>
 </rss>
